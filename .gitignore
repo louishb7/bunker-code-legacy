@@ -18,3 +18,4 @@ apps/explorer-web/src/generated/
 # Markdown policy: engineering notes stay local
 *.md
 !/README.md
+!/info_legado.md
